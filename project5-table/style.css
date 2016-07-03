@@ -1,0 +1,20 @@
+table {border-collapse:collapse;}
+td{
+	width: 100px;
+	height: 50px;
+	border-style:solid;
+	border-width:1px;
+	overflow:hidden;
+	word-break:normal;}
+.rred{
+	background-color: red;
+}
+.yyellow{
+	background-color: yellow;
+}
+.bblack{
+	background-color: #000;
+}
+.bluee{
+	background-color: blue;
+}

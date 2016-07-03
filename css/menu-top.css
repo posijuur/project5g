@@ -1,0 +1,41 @@
+.menu-top {
+  float: right;
+}
+.menu-top_item {
+  display: inline-block;
+  line-height: 36px;
+}
+.menu-top_link {
+  display: block;
+  padding: 0 10px 0 14px;
+  font-size: 14px;
+  text-decoration: none;
+  color: #60b5ed;
+}
+.menu-top_link:hover {
+  background-color: #4eabda;
+  text-shadow: 1px 1px 1px  #fff;
+  color: #fff;
+}
+.menu-top .menu-top_link__pl {
+  padding-left: 50px;
+  background: url(../img/flag.png) no-repeat 15px center;
+  color: #fff;
+}
+.menu-top_item__mod {
+  padding: 0 10px 0 14px;
+  line-height: 34px;
+  border: 1px solid #479bd4;
+  background: linear-gradient(to top, #2e7ac4, #51b1dc);
+  color: #fff;
+}
+.menu-top .menu-top_textd {
+  color: #fff;
+}
+.menu-top_link__mod:hover {
+  text-shadow: none;
+}
+.menu-top_item__lh {
+  border-left: 1px solid #56a2dc;
+  line-height: 30px;
+}
